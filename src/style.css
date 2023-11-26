@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: blanchedalmond;
+  height: 100vh;
+  padding-top: 150px;
+}
+
+button {
+  background-image: linear-gradient(to right, orange, pink);
+  border-radius: 100px;
+  height: 50px;
+  margin-bottom: 50px;
+}
